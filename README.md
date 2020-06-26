@@ -1,1 +1,7 @@
-# police_killings_in_us
+# Police Killings in the United States
+
+  Black Americans are 3 times more likely to be killed by police than white Americans. Police reform needs to occur before more people are killed by police and police need to be held accountable for their actions. Police officers should not be placed above the law and should not be given the power to murder people without consequences. This data was provided by Fatal Encounters, a website that has created a database for every person murdered by police from 2000 to now. 
+  
+  California, Texas, Florida, Georgia and Illinois had over 10,000 people killed by police combined. That is only 5 out of 50 states in the US. Already this year there have almost been 1,000 people killed, with the number increasing day by day. While more white people are killed by police, blacks are disproportionately killed when compared to the population statistics of the US. Blacks make up around 12% of the US population but are almost 30% of the people killed by police. Police officers are clearly killing most people with their guns, which often is unjustified as seen by police body cam footage. This information is only part of the systemic racism that is prominent in the US and can only be changed with action from everyone. 
+  
+  Another version of this data visualization can be viewed on   https://public.tableau.com/profile/leah.h6686#!/vizhome/PoliceKillings_15918211191990/PoliceKillingsintheUSFrom2000to2020
